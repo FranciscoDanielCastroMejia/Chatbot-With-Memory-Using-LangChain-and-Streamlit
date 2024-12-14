@@ -1,5 +1,5 @@
-# Using-paligemma-to-make-image-captions
-In this program you will find how to export a Google “paligemma” model to interact with the image, you will be able to ask whatever you want to know about the image. This program use streamlit as GUI. 
+# Chatbot with memory using LangChain and streamlit
+In this program, a chatbot is developed using the Python library Langchain, where it is configured so that the chatbot remembers everything that is mentioned in the conversation. And with the help of Streamlit, the graphical interface of the chatbot is developed.
 
 ---
 ## Code
