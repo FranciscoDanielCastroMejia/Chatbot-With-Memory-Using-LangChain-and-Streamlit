@@ -156,7 +156,7 @@ if modelo_seleccionado != 'No model':#if the model has been selected continue to
 ```
 ## Result
 <video controls width="600">
-  <source src="video_resultado.webm" type="video/webm">
+  <source src="[video_resultado.webm](https://github.com/FranciscoDanielCastroMejia/Chatbot-with-Memory-Using-LangChain-and-Streamlit/blob/main/video_resultado.webm)" type="video/webm">
   Tu navegador no soporta este formato de video. 
   Puedes descargarlo desde <a href="assets/demo.webm">aquí</a>.
 </video>
