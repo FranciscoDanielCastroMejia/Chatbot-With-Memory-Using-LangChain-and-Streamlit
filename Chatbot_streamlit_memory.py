@@ -11,7 +11,6 @@ from dotenv import load_dotenv, find_dotenv
 import os
 load_dotenv(find_dotenv(), override=True)
 
-#This work shows how a chatbot can be created using langchain and that it remembers the history of the conversation (remembers previous messages), just as this chatbot is deployed in streamlit to see it work in a graphical interface.
 
 #___________________________Title of the page in streamlit_________________________
 st.title("ChatBot with memory of the history chat")
